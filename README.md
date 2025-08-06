@@ -1,2 +1,2 @@
-# Image_seach_Engine
+# Image_search_Engine
 used to search images
